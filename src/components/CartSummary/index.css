@@ -1,0 +1,18 @@
+.summary-container {
+  display: flex;
+  align-self: flex-end;
+  flex-direction: column;
+}
+.order-total {
+  font-size: 20px;
+  color: #616e7c;
+  margin-bottom: 0px;
+}
+.total-price {
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.items-count {
+  color: #616e7c;
+  font-weight: 500;
+}
